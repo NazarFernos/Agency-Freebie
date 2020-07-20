@@ -1,0 +1,43 @@
+.header-box-right {
+    width: 1800px;
+    height: 985px;
+    background-color: #28282e;
+}
+
+.header-box-header-right {
+    width: 586px;
+    height: 46px;
+    margin-top: 16px;
+}
+
+.header-navigation {
+    width: 462px;
+    margin-left: 124px;
+    margin-top: 29px;
+    display: flex;
+    flex-direction: row;
+    justify-content: space-between;
+}
+
+nav .header-navigation a {
+    width: 462px;
+}
+
+.list {
+    color: #ffffff;
+    font-family: Dosis, sans-serif;
+    font-size: 12px;
+    font-weight: 500;
+    line-height: 40px;
+    text-transform: uppercase;
+}
+
+
+.rectangle-image {
+    background-image: url("../../images/rectangle.png");
+    width: 78px;
+    height: 78px;
+    margin-left: -40px;
+    margin-top: 795px;
+    position: absolute;
+}

@@ -1,0 +1,14 @@
+.block-services-right {
+    width: 585px;
+    height: 606px;
+}
+
+.block-services-top {
+    display: flex;
+    flex-direction: row;
+}
+
+.block-services-bottom {
+    display: flex;
+    flex-direction: row;
+}

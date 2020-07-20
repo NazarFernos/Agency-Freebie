@@ -1,0 +1,39 @@
+
+.locker {
+    width: 285px;
+    height: 300px;
+    margin-top: -80px;
+    margin-left: -10px;
+    position: relative;
+}
+
+.container-locker {
+    width: 211px;
+    height: 118px;
+    top: 91px;
+    left: 44.5px;
+    position: absolute;
+    display: flex;
+    flex-direction: column;
+    justify-content: space-between;
+}
+
+.locker-image {
+    width: 48px;
+    height: 64px;
+    margin: 0 auto;
+    background-image: url("../../images/Layer_19.png");
+}
+
+.web-security-optimization {
+    width: 211px;
+    color: #3d3d3d;
+    font-family: Dosis, sans-serif;
+    font-size: 16px;
+    font-weight: 700;
+    line-height: 40px;
+    text-transform: uppercase;
+    margin-bottom: -16px;
+    letter-spacing: 0.5px;
+    margin-left: 2px;
+}

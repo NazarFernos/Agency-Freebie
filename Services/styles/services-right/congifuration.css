@@ -1,0 +1,35 @@
+.configurations {
+    width: 285px;
+    height: 300px;
+    position: relative;
+}
+.container-configurations {
+    width: 182px;
+    height: 118px;
+    top: 95px;
+    left: 51px;
+    position: absolute;
+    display: flex;
+    flex-direction: column;
+    justify-content: space-between;
+}
+
+.configurations-image {
+    width: 64px;
+    height: 64px;
+    margin: 1px 58px;
+    background-image: url(../../images/Layer_20.png);
+}
+
+.conversion-optimization {
+    width: 186px;
+    color: #3d3d3d;
+    font-family: Dosis, sans-serif;
+    font-size: 16px;
+    font-weight: 700;
+    line-height: 40px;
+    text-transform: uppercase;
+    margin-bottom: -18px;
+    margin-left: -1px;
+    letter-spacing: 0.5px;
+}

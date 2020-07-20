@@ -1,0 +1,61 @@
+.header-box-left {
+    width: 900px;
+    height: 985px;
+    background-image: url("../../images/Layer_84.png");
+}
+
+.header-box-P {
+    width: 46px;
+    height: 46px;
+    margin-left: 315px;
+    margin-top: 27px;
+    background-image: url("../../images/Layer_85.png");
+
+}
+
+.agency-freebie {
+    width: 578px;
+    color: #ffffff;
+    font-family: Dosis, sans-serif;
+    font-size: 54px;
+    font-weight: 700;
+    line-height: 40px;
+    text-transform: uppercase;
+    margin-top: 278px;
+    margin-left: 320px;
+    letter-spacing: 1.8px;
+}
+
+.freebie {
+    width: 578px;
+    margin-top: -15px;
+    letter-spacing: 1.5px;
+    margin-left: -5px;
+}
+
+.a-gency {
+    font-size: 90px;
+    margin-left: -2px;
+}
+
+.rounded-rectangle-4 {
+    width: 74px;
+    height: 6px;
+    border-radius: 3px;
+    background-color: #ffffff;
+    margin-left: 316px;
+    margin-top: 34px;
+
+}
+
+.maecenas-suscipit-imperdiet {
+    width: 580px;
+    color: #ffffff;
+    font-family: "Open Sans", sans-serif;
+    font-size: 16px;
+    font-weight: 400;
+    line-height: 40px;
+    margin-top: 32px;
+    margin-left: 315px;
+    letter-spacing: 0.4px;
+}
